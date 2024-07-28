@@ -1,0 +1,14 @@
+{
+  "name": "sass-project-file",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "sdfsdf",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
